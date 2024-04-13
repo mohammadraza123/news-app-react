@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 15630,
+    "articles": [
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Joel Khalili",
+    "title": "What’s Behind the Bitcoin Price Surge? Vibes, Mostly",
+    "description": "The price of bitcoin has climbed to a new all-time high. But assigning the cryptocurrency a value is anything but trivial.",
+    "url": "https://www.wired.com/story/bitcoin-price-record-economics/",
+    "urlToImage": "https://media.wired.com/photos/65ef46042ca08b0e59a9682f/191:100/w_1280,c_limit/031124-business-bitcoin-economics.jpg",
+    "publishedAt": "2024-03-12T18:13:56Z",
+    "content": "The latest surge in the price of bitcoin is increasing the clamor around it, says Dal Bianco, drawing in yet more speculators and creating a self-reinforcing cycle. Likewise, when collective confiden… [+2967 chars]"
+    },
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Joel Khalili",
+    "title": "The Science of Crypto Forensics Survives a Court Battle—for Now",
+    "description": "A jury convicted Roman Sterlingov of money laundering this month. His defense team says it will appeal, saying the crypto-tracing technique at the heart of the case is “pseudoscience.”",
+    "url": "https://www.wired.com/story/the-science-of-crypto-forensics-court-battle/",
+    "urlToImage": "https://media.wired.com/photos/6603759fd3a75d0aa76d16ab/191:100/w_1280,c_limit/business_crypto_tracing_forensics_trial.jpg",
+    "publishedAt": "2024-03-27T11:00:00Z",
+    "content": "On March 12, Russian-Swedish national Roman Sterlingov was found guilty of money laundering conspiracy and other violations by a federal jury in Washington, DC, for having operated Bitcoin Fog, a ser… [+3654 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Woman found with £2bn in Bitcoin convicted",
+    "description": "Jian Wen, 42, from north London, was involved in converting Bitcoin into assets like luxury houses.",
+    "url": "https://www.bbc.co.uk/news/uk-england-london-68620253",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17FE5/production/_132977289_wen2.jpg",
+    "publishedAt": "2024-03-20T17:50:49Z",
+    "content": "A former takeaway worker found with Bitcoin worth more than £2bn has been convicted at Southwark Crown Court of a crime linked to money laundering.\r\nJian Wen, 42, from Hendon in north London, was inv… [+2779 chars]"
+    },
+    {
+    "source": {
+    "id": "ars-technica",
+    "name": "Ars Technica"
+    },
+    "author": "Ashley Belanger",
+    "title": "Bitcoin Fog operator convicted of laundering $400M in bitcoins on darknet",
+    "description": "Roman Sterlingov will appeal, denouncing DOJ's crypto-tracing techniques.",
+    "url": "https://arstechnica.com/tech-policy/2024/03/bitcoin-fog-operator-convicted-of-laundering-400m-in-bitcoins-on-darknet/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1240726120-760x380.jpg",
+    "publishedAt": "2024-03-13T20:34:08Z",
+    "content": "19\r\nA US federal jury has convicted a dual Russian-Swedish national, Roman Sterlingov, for operating Bitcoin Fog, \"the longest-running bitcoin money laundering service on the darknet,\" the Department… [+5682 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Matt Novak",
+    "title": "The Feds Are Reportedly Investigating Ethereum Foundation",
+    "description": "The U.S. Securities and Exchange Commission (SEC) is investigating the Ethereum Foundation and companies doing business with the nonprofit, according to a new report from Fortune Wednesday. And that’s very bad news for crypto enthusiasts who were hopeful that…",
+    "url": "https://gizmodo.com/sec-ethereum-price-bitcoin-investigation-crypto-etf-1851352576",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b5adaa02e058acea54ab69fa505844cc.jpg",
+    "publishedAt": "2024-03-20T18:15:00Z",
+    "content": "The U.S. Securities and Exchange Commission (SEC) is investigating the Ethereum Foundation and companies doing business with the nonprofit, according to a new report from Fortune Wednesday. And thats… [+2397 chars]"
+    }
+]
+}
